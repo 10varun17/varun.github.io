@@ -13,6 +13,9 @@ main:
 
   - title: "Research"
     url: /research/
-    
+
+  - title: "Experience"
+    uri: /experience/
+
   - title: "Projects"
     url: /portfolio/
