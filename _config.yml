@@ -27,8 +27,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Interested in Robotics for the left-hand sidebar"
   location         : "Edinburgh, Scotland"
-  employer         : "Red Brick University"
-  uri              : # URL
+  employer         : "The University of Edinburgh"
+  # uri              : # URL
   email            : "V.Rayamajhi@sms.ed.ac.uk" 
 
   # Academic websites
@@ -39,7 +39,7 @@ author:
   impactstory      : # URL
   # orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
