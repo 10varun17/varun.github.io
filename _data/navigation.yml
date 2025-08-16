@@ -9,9 +9,9 @@
 
 main:
   - title: "CV"
-    url: /files/resume_varun_rayamajhi.pdf
+    url: /files/resume_varun_rayamajhi.pdf/
 
-  - title: "Research"
+  - title: "Publications"
     url: /publications/
 
   # - title: "Talks"
