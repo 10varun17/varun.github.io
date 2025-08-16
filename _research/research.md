@@ -1,5 +1,6 @@
 ---
 title: "Research Experience"
+excerpt: Short description of research
 collection: research
 ---
 
