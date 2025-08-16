@@ -1,4 +1,7 @@
-# Research Experience
+---
+title: "Research Experience"
+collection: research
+---
 
 
 ## Multi-Agent Robotic Systems
