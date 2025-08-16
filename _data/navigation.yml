@@ -9,7 +9,7 @@
 
 main:
   - title: "CV"
-    url: /files/resume_varun_rayamajhi.pdf/
+    url: /cv/
 
   - title: "Research"
     url: /research/
