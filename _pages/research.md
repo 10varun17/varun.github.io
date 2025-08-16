@@ -1,9 +1,9 @@
 ---
-title: "Research Experience"
-excerpt: Short description of research
-collection: research
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
 ---
-
 
 ## Multi-Agent Robotic Systems
 **University of Richmond Robotics Lab** | *May 2025 – Present* 
