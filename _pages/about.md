@@ -17,14 +17,20 @@ My previous research experience was on multi-agent robotics systems and control 
 - Decentralized coordination in multi-robot systems
 - Control algorithms for autonomous mobile robots
 
-## Current Work
+## Technical Skills
 
-I'm currently a Research Software Engineering Intern at the University of Chicago Data Science Institute, working in the Human Computer Integration Lab. I'm also continuing my previous research work on robotics.
+**Programming Languages**: Python, Java, C++, Dart
+**Robotics & AI/ML**: ROS2, PyTorch, Scikit-Learn, OpenCV, Gazebo, CasADi
+**Scientific Computing**: Mathematica, NumPy, Pandas, SciPy, Matplotlib, Seaborn
+**Development Tools**: Linux, Git, Android Studio, Flutter, RESTful API design
+**Hardware**: Arduino, Proteus, Eagle EDA, Sensor Integration, Circuit Design
 
 ## Education
 
 - **University of Richmond** (Expected May 2027) - B.S. Computer Science, Minors in Physics & Mathematics
 - **University of Edinburgh** (2025-2026) - Visiting Student, Department of Informatics
-- **GPA**: 4.0/4.0, Dean's List (4 semesters), Richmond Scholar
-
-I'm currently preparing for PhD applications in robotics and AI/ML.
+- **GPA** - 4.0/4.0
+- **Honors** - Dean's List (4 semesters), Richmond Scholar (1 of ~25 scholars selected from ~11,000 applicants), Robins Science Scholar Award (<3% awarded per class, merit-based), Global Scholarship (academic full ride)
+- **Completed Coursework** - Software Development, Data Structures, Algorithms, ML and AI in Robotics, Linear Algebra, Probability, Mathemetical Methods in Physics, Abstract Mathematics, Multivariate Calculus, Classical Mechanics
+- **Ongoing Coursework (Falll2025)** - Accelerated Natural Language Processing, Computer Security, Human-Computer Interaction, Combinatorics and Graph Theory
+- **Upcoming Coursework (Spring 2026)** - Robot and Reinforcement Learning, Computer Vision, Control and Instrumentation Engineering, Advanced Control Engineering
