@@ -21,13 +21,3 @@ author_profile: true
 - Presented research findings on greenhouse temperature control at international conference
 
 ---
-
-## Technical Skills
-
-**Programming Languages**: Python, Java, C++, Dart
-**Robotics & AI/ML**: ROS2, PyTorch, Scikit-Learn, OpenCV, Gazebo, CasADi
-**Scientific Computing**: Mathematica, NumPy, Pandas, SciPy, Matplotlib, Seaborn
-**Development Tools**: Linux, Git, Android Studio, Flutter, RESTful API design
-**Hardware**: Arduino, Proteus, Eagle EDA, Sensor Integration, Circuit Design
-
----

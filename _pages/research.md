@@ -22,7 +22,7 @@ _Robotics and Control Research Assistant - Dr. Patrick Martin_
 _Research Software Engineering Intern - Dr. Pedro Lopes_
 
 - Designed and developed the first interactive application (Flutter-based) with a clinician-friendly UI/UX to assess Progressive
-  Supranuclear Palsy by detecting downgaze palsy, reducing manual evaluation time from > 5 mins to < 1 min.
+  Supranuclear Palsy by detecting downgaze palsy, reducing manual evaluation time from more than 5 minutes to less than a minute.
 - Implemented computer vision pipeline for pupil detection, eye corner detection using Harris corner detection + k-means clustering,
   and iris top edge detection through intensity analysis in single eye images to fully automate downgaze palsy detection.
 
