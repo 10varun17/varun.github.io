@@ -30,7 +30,12 @@ My previous research experience was on multi-agent robotics systems and control 
 - **University of Richmond** (Expected May 2027) - B.S. Computer Science, Minors in Physics & Mathematics
 - **University of Edinburgh** (2025-2026) - Visiting Student, Department of Informatics
 - **GPA** - 4.0/4.0
-- **Honors** - Dean's List (4 semesters), Richmond Scholar (1 of ~25 scholars selected from ~11,000 applicants), Robins Science Scholar Award (<3% awarded per class, merit-based), Global Scholarship (academic full ride)
+- **Honors**
+
+  - Dean's List (4 semesters)
+  - Richmond Scholar (1 of ~25 scholars selected from ~11,000 applicants)
+  - Robins Science Scholar Award (<3% awarded per class, merit-based)
+  - Global Scholarship (academic full ride)
 
 ## Relevant Coursework
 
