@@ -14,7 +14,7 @@ author_profile: true
 - Designed an experimental setup for formation control with three real differential-drive robots (TurtleBots) and tested the controllers.
 - Reviewed existing safety approaches (Artificial Potential Fields, Reinforcement Learning, Control Barrier Functions) and implemented CBF and Exponential CBF-QP controllers in Python to guarantee forward invariance of the safe set in a single-agent system.
 
-## Human Computer Integration
+## Computer Vision
 
 **University of Chicago Data Science Institute** | _June 2025 – August 2025_ | _Research Software Engineering Intern - Dr. Pedro Lopes_
 
