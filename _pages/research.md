@@ -14,6 +14,8 @@ author_profile: true
 - Designed an experimental setup for formation control with three real differential-drive robots (TurtleBots) and tested the controllers.
 - Reviewed existing safety approaches (Artificial Potential Fields, Reinforcement Learning, Control Barrier Functions) and implemented CBF and Exponential CBF-QP controllers in Python to guarantee forward invariance of the safe set in a single-agent system.
 
+---
+
 ## Computer Vision
 
 **University of Chicago Data Science Institute** | _June 2025 – August 2025_ | _Research Software Engineering Intern - Dr. Pedro Lopes_
@@ -21,6 +23,8 @@ author_profile: true
 - Designed and developed the first interactive application (Flutter-based) with a clinician-friendly UI/UX to assess Progressive
   Supranuclear Palsy by detecting downgaze palsy, reducing manual evaluation time from more than 5 minutes to less than a minute.
 - Implemented computer vision pipeline for pupil detection, eye corner detection using Harris corner detection + k-means clustering, and iris top edge detection through intensity analysis in single eye images to fully automate downgaze palsy detection.
+
+---
 
 ## Machine Learning
 
