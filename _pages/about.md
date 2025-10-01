@@ -34,6 +34,29 @@ My previous research experience was on multi-agent robotics systems and control 
 
 ## Relevant Coursework
 
-- **Completed Coursework** - Software Development, Data Structures, Algorithms, ML and AI in Robotics, Linear Algebra, Probability, Mathemetical Methods in Physics, Abstract Mathematics, Multivariate Calculus, Classical Mechanics
-- **Ongoing Coursework (Fall 2025)** - Accelerated Natural Language Processing, Computer Security, Human-Computer Interaction, Combinatorics and Graph Theory
-- **Upcoming Coursework (Spring 2026)** - Robot and Reinforcement Learning, Computer Vision, Control and Instrumentation Engineering, Advanced Control Engineering
+- **Completed Coursework**
+
+  - ML and AI in Robotics
+  - Software Development
+  - Data Structures
+  - Algorithms
+  - Linear Algebra
+  - Probability
+  - Mathematical Methods in Physics
+  - Fundamentals of Abstract Mathematics
+  - Multivariate Calculus
+  - Classical Mechanics
+
+- **Ongoing Coursework (Fall 2025)**
+
+  - Accelerated Natural Languagae Processing
+  - Computer Security
+  - Human-Computer Interaction
+  - Combinatorics and Graph Theory
+
+- **Upcoming Coursework (Spring 2026)**
+
+  - Robot and Reinforcement Learning
+  - Computer Vision
+  - Control and Instrumentation Engineering
+  - Advanced Control Engineering
