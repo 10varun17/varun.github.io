@@ -5,7 +5,7 @@ permalink: /experience/
 author_profile: true
 ---
 
-**Space Technology & Aeronautical Rocketry Lab (STAR), India** | _India_ |_August 2022 – September 2022_
+**Space Technology & Aeronautical Rocketry Lab (STAR), India** | _India_ | _August 2022 – September 2022_
 
 - Developed design criteria for STP avionics system, covering testing methods, production costs, and quality standards
 - Simulated systems using Proteus and ArduinoIDE, designed PCB using Eagle
