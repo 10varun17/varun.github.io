@@ -18,7 +18,7 @@ author_profile: true
 
 ## Computer Vision
 
-**University of Chicago Data Science Institute** | _June 2025 – August 2025_ | _Research Software Engineering Intern - Dr. Pedro Lopes_
+**University of Chicago Human Computer Integration Lab** | _June 2025 – August 2025_ | _Research Software Engineering Intern - Dr. Pedro Lopes_
 
 - Designed and developed the first interactive application (Flutter-based) with a clinician-friendly UI/UX to assess Progressive
   Supranuclear Palsy by detecting downgaze palsy, reducing manual evaluation time from more than 5 minutes to less than a minute.
