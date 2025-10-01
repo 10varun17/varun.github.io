@@ -7,8 +7,7 @@ author_profile: true
 
 ## Multi-Agent Robotic Systems
 
-**University of Richmond Robotics Lab** | _May 2025 – June 2025; June 2024 - August 2024_ |
-_Robotics and Control Research Assistant - Dr. Patrick Martin_
+**University of Richmond Robotics Lab** | _May 2025 – June 2025; June 2024 - August 2024_ | _Robotics and Control Research Assistant - Dr. Patrick Martin_
 
 - Engineered multi-agent robotic system using Python & ROS2, implementing decentralized coordination with action servers & clients.
 - Developed scalable ROS2 packages with custom messages and launch files to streamline agent deployment and communication.
@@ -17,8 +16,7 @@ _Robotics and Control Research Assistant - Dr. Patrick Martin_
 
 ## Human Computer Integration
 
-**University of Chicago Data Science Institute** | _June 2025 – August 2025_ |
-_Research Software Engineering Intern - Dr. Pedro Lopes_
+**University of Chicago Data Science Institute** | _June 2025 – August 2025_ | _Research Software Engineering Intern - Dr. Pedro Lopes_
 
 - Designed and developed the first interactive application (Flutter-based) with a clinician-friendly UI/UX to assess Progressive
   Supranuclear Palsy by detecting downgaze palsy, reducing manual evaluation time from more than 5 minutes to less than a minute.
